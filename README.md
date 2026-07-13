@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
